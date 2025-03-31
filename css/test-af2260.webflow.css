@@ -2530,13 +2530,14 @@ a {
   }
 
   .hero {
-    background-image: url('../images/mobile-hero.jpg');
+    background-image: url('../images/newmobile.png');
     background-position: 50%;
     background-size: cover;
     flex-flow: column;
-    justify-content: center;
+    justify-content: start;
     align-items: center;
     height: 100vh;
+    
   }
 
   .div-title {
@@ -2545,7 +2546,7 @@ a {
     justify-content: flex-end;
     align-items: center;
     height: 20vh;
-    margin-top: 386px;
+    margin-top: 200px;
     position: static;
   }
 
