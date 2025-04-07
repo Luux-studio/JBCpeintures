@@ -2531,12 +2531,13 @@ a {
 
   .hero {
     background-image: url('../images/newmobile.png');
-    background-position: 50%;
+    background-position: 15%;
     background-size: cover;
     flex-flow: column;
     justify-content: start;
     align-items: center;
     height: 100vh;
+    width: 100vw;
     
   }
 
