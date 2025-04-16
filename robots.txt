@@ -1,4 +1,4 @@
 User-agent: *
-Disallow: /politique-de-confidentialite.html
+Allow: /
 
 Sitemap: https://www.jbcpeintures.fr/sitemap.xml
